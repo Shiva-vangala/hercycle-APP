@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764829887554",
+    "project_id": "hercycle-d5503",
+    "storage_bucket": "hercycle-d5503.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764829887554:android:50ec7d2e46cd54b8a651db",
+        "android_client_info": {
+          "package_name": "com.example.hercycleplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0UfWxcI64NW-b5K6n8bFYLn_ZbpC4Bl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
